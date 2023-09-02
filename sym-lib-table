@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "xiao2040")(type "KiCad")(uri "/home/hff/repos/keyboards/Seeeduino-xiao-rp2040-KiCAD-Library/MOUDLE-SEEEDUINO-XIAO.kicad_sym")(options "")(descr ""))
+  (lib (name "keebio-parts")(type "Legacy")(uri "/home/hff/repos/keyboards/bgkeeb/pcb/choc/libraries/keebio.lib")(options "")(descr ""))
+  (lib (name "kleeb-mcu")(type "KiCad")(uri "/home/hff/repos/keyboards/kleeb/mcu.kicad_sym")(options "")(descr ""))
+)

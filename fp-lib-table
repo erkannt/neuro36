@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "XIAO_PCB")(type "KiCad")(uri "/home/hff/repos/keyboards/Seeeduino-xiao-rp2040-KiCAD-Library/XIAO_PCB.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "/home/hff/repos/keyboards/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/home/hff/repos/keyboards/bgkeeb/pcb/choc/libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "kleeb")(type "KiCad")(uri "/home/hff/repos/keyboards/kleeb.pretty")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "/home/hff/repos/keyboards/kleeb/mcu.pretty")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/misc.pretty")(options "")(descr ""))
+)
