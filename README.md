@@ -21,7 +21,8 @@ I wanted a keyboard I could travel with. I need 36 keys and like to have larger 
 
 I wanted to learn KiCAD and thanks to all the amazing open source keyboards out there it was a breeze.
 
-![neurons on pcb](img/PCB-real.jpg)
+![case close up](img/in-case.jpg)
+![case](img/case.jpg)
 
 ## Making one
 
@@ -42,6 +43,7 @@ Apart from the PCBs you will need:
 
 I picked a very small diode footprint by accident. I'd suggest going for something larger if you are up for tweaking the KiCAD project.
 
+![neurons on pcb](img/PCB-real.jpg)
 ![PCB in kicad](img/PCB-cad.png)
 
 ## Firmware
